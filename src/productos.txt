@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1669214110662,
+    "nombre": "Escuadra",
+    "descripcion": "Útiles escolares",
+    "codigo": 001,
+    "precio": 123.45,
+    "stock": 100,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+  },
+  {
+    "id": 2,
+    "timestamp": 1669214124522,
+    "nombre": "Calculadora",
+    "descripcion": "Útiles escolares",
+    "codigo": 002,
+    "precio": 234.56,
+    "stock": 100,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+  },
+  {
+    "id": 3,
+    "timestamp": 1669214125942,
+    "nombre": "Globo Terráqueo",
+    "descripcion": "Útiles escolares",
+    "codigo": 003,
+    "precio": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+  }
+]

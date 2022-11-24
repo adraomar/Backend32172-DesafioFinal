@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 3,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ],
+    "timestamp": 1669209735720
+  },
+  {
+    "id": 2,
+    "timestamp": 1669209749169,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 2,
+        "title": "Calculadora",
+        "price": 234.56,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+      },
+      {
+        "id": 3,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "timestamp": 1669209868482,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 2,
+        "title": "Calculadora",
+        "price": 234.56,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+      },
+      {
+        "id": 3,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "timestamp": 1669209895609,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 2,
+        "title": "Calculadora",
+        "price": 234.56,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+      },
+      {
+        "id": 3,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "timestamp": 1669209934015,
+    "productos": [
+      {
+        "id": 1,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 2,
+        "title": "Calculadora",
+        "price": 234.56,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+      },
+      {
+        "id": 3,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "timestamp": 1669216348071,
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": 1669214110662,
+        "title": "Escuadra",
+        "price": 123.45,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png"
+      },
+      {
+        "id": 2,
+        "timestamp": 1669214124522,
+        "title": "Calculadora",
+        "price": 234.56,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png"
+      },
+      {
+        "id": 3,
+        "timestamp": 1669214125942,
+        "title": "Globo Terráqueo",
+        "price": 345.67,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png"
+      }
+    ]
+  }
+]
