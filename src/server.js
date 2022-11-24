@@ -6,7 +6,7 @@ const ContenedorCarrito = require("./managers/contenedorCarrito");
 const app = express();
 const carritoRouter = Router();
 const prodRouter = Router();
-const PORT = 8080;
+const PORT = proccess.env.PORT || 8080;
 const productosService = new Contenedor("./src/productos.txt");
 const carritoService = new ContenedorCarrito("./src/carrito.txt");
 
